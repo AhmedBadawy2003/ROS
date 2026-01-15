@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/demo/demo.egg-info/PKG-INFO
+writing dependency_links to ../../build/demo/demo.egg-info/dependency_links.txt
+writing entry points to ../../build/demo/demo.egg-info/entry_points.txt
+writing requirements to ../../build/demo/demo.egg-info/requires.txt
+writing top-level names to ../../build/demo/demo.egg-info/top_level.txt
+reading manifest file '../../build/demo/demo.egg-info/SOURCES.txt'
+writing manifest file '../../build/demo/demo.egg-info/SOURCES.txt'
+running build
+running build_py
+copying demo/node.py -> /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo
+running install
+running install_lib
+copying /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo/node.py -> /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo
+byte-compiling /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo/node.py to node.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/demo/demo.egg-info to /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo-0.0.0-py3.12.egg-info
+running install_scripts
+Installing test_node script to /home/badawy/ROS/ROS_ws_demo/install/demo/lib/demo
+writing list of installed files to '/home/badawy/ROS/ROS_ws_demo/build/demo/install.log'

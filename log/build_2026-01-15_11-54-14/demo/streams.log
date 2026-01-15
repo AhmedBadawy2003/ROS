@@ -1,0 +1,37 @@
+[1.683s] Invoking command in '/home/badawy/ROS/ROS_ws_demo/src/demo': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/badawy/ROS/ROS_ws_demo/build/demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo build --build-base /home/badawy/ROS/ROS_ws_demo/build/demo/build install --record /home/badawy/ROS/ROS_ws_demo/build/demo/install.log --single-version-externally-managed install_data
+[2.220s] running egg_info
+[2.221s] creating ../../build/demo/demo.egg-info
+[2.266s] writing ../../build/demo/demo.egg-info/PKG-INFO
+[2.267s] writing dependency_links to ../../build/demo/demo.egg-info/dependency_links.txt
+[2.267s] writing entry points to ../../build/demo/demo.egg-info/entry_points.txt
+[2.267s] writing requirements to ../../build/demo/demo.egg-info/requires.txt
+[2.267s] writing top-level names to ../../build/demo/demo.egg-info/top_level.txt
+[2.267s] writing manifest file '../../build/demo/demo.egg-info/SOURCES.txt'
+[2.361s] reading manifest file '../../build/demo/demo.egg-info/SOURCES.txt'
+[2.362s] writing manifest file '../../build/demo/demo.egg-info/SOURCES.txt'
+[2.362s] running build
+[2.362s] running build_py
+[2.362s] creating /home/badawy/ROS/ROS_ws_demo/build/demo/build
+[2.362s] creating /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib
+[2.363s] creating /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo
+[2.363s] copying demo/node.py -> /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo
+[2.363s] copying demo/__init__.py -> /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo
+[2.363s] running install
+[2.372s] running install_lib
+[2.420s] creating /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo
+[2.420s] copying /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo/node.py -> /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo
+[2.421s] copying /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo/__init__.py -> /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo
+[2.421s] byte-compiling /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo/node.py to node.cpython-312.pyc
+[2.422s] byte-compiling /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo/__init__.py to __init__.cpython-312.pyc
+[2.422s] running install_data
+[2.422s] creating /home/badawy/ROS/ROS_ws_demo/install/demo/share/ament_index
+[2.422s] creating /home/badawy/ROS/ROS_ws_demo/install/demo/share/ament_index/resource_index
+[2.422s] creating /home/badawy/ROS/ROS_ws_demo/install/demo/share/ament_index/resource_index/packages
+[2.423s] copying resource/demo -> /home/badawy/ROS/ROS_ws_demo/install/demo/share/ament_index/resource_index/packages
+[2.423s] copying package.xml -> /home/badawy/ROS/ROS_ws_demo/install/demo/share/demo
+[2.423s] running install_egg_info
+[2.473s] Copying ../../build/demo/demo.egg-info to /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo-0.0.0-py3.12.egg-info
+[2.474s] running install_scripts
+[2.771s] Installing test_node script to /home/badawy/ROS/ROS_ws_demo/install/demo/lib/demo
+[2.771s] writing list of installed files to '/home/badawy/ROS/ROS_ws_demo/build/demo/install.log'
+[2.804s] Invoked command in '/home/badawy/ROS/ROS_ws_demo/src/demo' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/badawy/ROS/ROS_ws_demo/build/demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo build --build-base /home/badawy/ROS/ROS_ws_demo/build/demo/build install --record /home/badawy/ROS/ROS_ws_demo/build/demo/install.log --single-version-externally-managed install_data

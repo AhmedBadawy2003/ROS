@@ -1,0 +1,24 @@
+[1.518s] Invoking command in '/home/badawy/ROS/ROS_ws_demo/src/demo': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/badawy/ROS/ROS_ws_demo/build/demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo build --build-base /home/badawy/ROS/ROS_ws_demo/build/demo/build install --record /home/badawy/ROS/ROS_ws_demo/build/demo/install.log --single-version-externally-managed install_data
+[2.048s] running egg_info
+[2.099s] writing ../../build/demo/demo.egg-info/PKG-INFO
+[2.099s] writing dependency_links to ../../build/demo/demo.egg-info/dependency_links.txt
+[2.100s] writing entry points to ../../build/demo/demo.egg-info/entry_points.txt
+[2.100s] writing requirements to ../../build/demo/demo.egg-info/requires.txt
+[2.100s] writing top-level names to ../../build/demo/demo.egg-info/top_level.txt
+[2.192s] reading manifest file '../../build/demo/demo.egg-info/SOURCES.txt'
+[2.193s] writing manifest file '../../build/demo/demo.egg-info/SOURCES.txt'
+[2.194s] running build
+[2.194s] running build_py
+[2.194s] copying demo/node.py -> /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo
+[2.194s] running install
+[2.203s] running install_lib
+[2.250s] copying /home/badawy/ROS/ROS_ws_demo/build/demo/build/lib/demo/node.py -> /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo
+[2.250s] byte-compiling /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo/node.py to node.cpython-312.pyc
+[2.251s] running install_data
+[2.251s] running install_egg_info
+[2.299s] removing '/home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo-0.0.0-py3.12.egg-info' (and everything under it)
+[2.299s] Copying ../../build/demo/demo.egg-info to /home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages/demo-0.0.0-py3.12.egg-info
+[2.300s] running install_scripts
+[2.576s] Installing test_node script to /home/badawy/ROS/ROS_ws_demo/install/demo/lib/demo
+[2.576s] writing list of installed files to '/home/badawy/ROS/ROS_ws_demo/build/demo/install.log'
+[2.608s] Invoked command in '/home/badawy/ROS/ROS_ws_demo/src/demo' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/badawy/ROS/ROS_ws_demo/build/demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/badawy/ROS/ROS_ws_demo/install/demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo build --build-base /home/badawy/ROS/ROS_ws_demo/build/demo/build install --record /home/badawy/ROS/ROS_ws_demo/build/demo/install.log --single-version-externally-managed install_data

@@ -1,0 +1,2 @@
+[console_scripts]
+test_node = demo.node:main
